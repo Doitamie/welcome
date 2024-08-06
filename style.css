@@ -1,0 +1,33 @@
+h1 {
+    color: chocolate;
+    font-size: 29;
+    
+}
+.blue-text {
+    color:firebrick;
+}
+table {
+    border: 1px;
+    padding: auto;
+    margin: auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+}
+a {
+    background-color: #456;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    padding: 12px 25px;
+    text-decoration: none;
+ }
+a:hover{
+    background-color:hotpink;
+}
+#active {
+    background-color: lightseagreen;
+}
+#main {
+    color: rgb(5, 224, 224);
+}
+ 
